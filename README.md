@@ -33,4 +33,6 @@ I'm Ashirafu Miiro, a Software Engineer from Uganda. I have developed applicatio
     title="Arduino" width="50px" height="50px">
 
 
-![Ashirafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashirafumiiro&show_icons=true)
+![Ashirafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashirafumiiro&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashirafumiiro&hide=php)](https://github.com/anuraghazra/github-readme-stats)
