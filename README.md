@@ -3,8 +3,8 @@
 
 I'm Ashirafu Miiro, a Software Engineer from Uganda. I have developed applications in various programming languages and frameworks, including Web, Desktop and Embedded applications. I have experience in architecting systems and working at all stages of the Software Development Life Cycle.
 
-- 🔭 I’m currently contributing to an online laboratory platform
-- 🌱 I’m currently learning DDD
+- 🔭 I’m currently contributing to an online laboratory platform ([Smarter Labs](https://www.smarterlabs.tech/))
+- 🌱 I’m currently learning AI
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/ashirafu-miiro
 
