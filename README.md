@@ -36,3 +36,7 @@ I'm Ashirafu Miiro, a Software Engineer from Uganda. I have developed applicatio
 ![Ashirafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashirafumiiro&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashirafumiiro&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Video on Getting started with Smarter Labs Platform
+[![YouTube video tutorial](./you-tube-tutorial.jpg)](https://www.youtube.com/watch?v=VHtY-7t2utg "Getting started with Smarter Labs Platform (YouTube)")
